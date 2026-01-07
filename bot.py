@@ -3,7 +3,7 @@ from datetime import date
 from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, filters, ContextTypes
 
-TELEGRAM_BOT_TOKEN = "AAFi6Bwx6cBwiETlTOzFe2NbmFUl47hrwOY"
+TELEGRAM_BOT_TOKEN = "8288964366:AAFi6Bwx6cBwiETlTOzFe2NbmFUl47hrwOY"
 HF_TOKEN = "MmGfUGXwdTJCpSdsozEWVIZJfbtpGnXxam"
 ADMIN_ID = 8569184435
 DAILY_LIMIT = 20
