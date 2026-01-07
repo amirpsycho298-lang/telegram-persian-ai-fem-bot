@@ -3,9 +3,9 @@ from datetime import date
 from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, filters, ContextTypes
 
-TELEGRAM_BOT_TOKEN = ""
-HF_TOKEN = ""
-ADMIN_ID = 0
+TELEGRAM_BOT_TOKEN = "AAFi6Bwx6cBwiETlTOzFe2NbmFUl47hrwOY"
+HF_TOKEN = "MmGfUGXwdTJCpSdsozEWVIZJfbtpGnXxam"
+ADMIN_ID = 8569184435
 DAILY_LIMIT = 20
 MODEL = "mistralai/Mistral-7B-Instruct"
 
